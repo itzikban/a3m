@@ -28,7 +28,7 @@ clamd==1.0.2
     # via a3m (setup.py)
 click==8.1.2
     # via a3m (setup.py)
-colorama==0.4.4
+colorama==0.4.6
     # via rich
 commonmark==0.9.1
     # via rich
