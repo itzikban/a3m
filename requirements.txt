@@ -92,7 +92,7 @@ six==1.16.0
     #   grpcio
     #   metsrw
     #   python-dateutil
-sqlparse==0.4.2
+sqlparse==0.5.3
     # via django
 tenacity==8.0.1
     # via a3m (setup.py)
