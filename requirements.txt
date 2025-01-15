@@ -62,7 +62,7 @@ lxml==4.8.0
     #   a3m (setup.py)
     #   ammcpc
     #   metsrw
-metsrw==0.3.21
+metsrw==0.6.1
     # via a3m (setup.py)
 prometheus-client==0.14.1
     # via a3m (setup.py)
