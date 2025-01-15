@@ -124,7 +124,7 @@ mccabe==0.6.1
     # via
     #   flake8
     #   pylint
-metsrw==0.3.21
+metsrw==0.6.1
     # via a3m (setup.py)
 multidict==6.0.2
     # via yarl
