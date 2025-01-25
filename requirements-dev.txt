@@ -77,7 +77,7 @@ googleapis-common-protos==1.56.1
     # via
     #   a3m (setup.py)
     #   grpcio-status
-grpcio==1.46.3
+grpcio==1.70.0
     # via
     #   a3m (setup.py)
     #   grpcio-reflection
